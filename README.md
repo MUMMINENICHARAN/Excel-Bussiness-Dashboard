@@ -24,3 +24,12 @@ This project is an interactive Business Dashboard created using Microsoft Excel.
 
 ## 👨‍💻 Author
 **Charan Mummineni**
+## 👨‍💻 Author
+
+**Charan Mummineni**
+
+## 📷 Dashboard Preview
+
+Below is a preview of the interactive Excel Business Dashboard developed using Microsoft Excel.
+
+![Dashboard](dashboard.png)
